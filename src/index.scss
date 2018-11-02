@@ -12,3 +12,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.fa-sync{
+  margin: 17px;
+  color: lightgray;
+  cursor: pointer;
+}
+
+.fa-list-ul{
+  color: lightgray;
+}
+
+.list-header{
+  margin: 7.5px 10px 7.5px auto;
+  height: 35px;
+  padding: 7.5px;
+  border-radius: 50%;
+  border: 1px solid lightgray;
+  cursor: pointer;
+}
+
+.fas{
+  cursor: pointer;
+  color: lightgray;
+}
